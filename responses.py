@@ -12,4 +12,5 @@ def respon_ai(pesan):
     elif pesan in ["bye", "selesai", "keluar"]:
         return "Sampai jumpa."
     else:
-        return "Maaf, saya belum memahami pertanyaan itu."
+        return "Maaf, pertanyaan tersebut belum tersedia dalam basis pengetahuan saya."
+
