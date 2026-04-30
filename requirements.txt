@@ -1,1 +1,10 @@
 streamlit
+groq
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+pypdf
+sentence-transformers
+tf-keras
