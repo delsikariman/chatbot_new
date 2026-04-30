@@ -6,5 +6,4 @@ langchain-huggingface
 langchain-community
 faiss-cpu
 pypdf
-sentence-transformers
-tf-keras
+fastembed

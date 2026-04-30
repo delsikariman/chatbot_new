@@ -8,7 +8,7 @@ import os
 import glob
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from langchain_community.vectorstores import FAISS
 
 def main():
@@ -53,12 +53,9 @@ def main():
     chunks = text_splitter.split_documents(documents)
     print(f"Menghasilkan {len(chunks)} potongan teks.")
 
-    # 4. Membuat Embeddings menggunakan HuggingFace model
-    print("Mengunduh/Memuat model embedding (all-MiniLM-L6-v2)...")
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2",
-        model_kwargs={'device': 'cpu'}
-    )
+    # 4. Membuat Embeddings menggunakan FastEmbed
+    print("Mengunduh/Memuat model embedding (FastEmbed)...")
+    embeddings = FastEmbedEmbeddings()
 
     # 5. Membuat FAISS Vector Store
     print("Membuat FAISS Vector Database... (Ini mungkin memakan waktu)")

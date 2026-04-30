@@ -27,13 +27,10 @@ def get_response_from_groq(pesan):
         if os.path.exists(vectorstore_path):
             try:
                 # Import lambat agar aplikasi tetap cepat jika RAG tidak digunakan
-                from langchain_huggingface import HuggingFaceEmbeddings
+                from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
                 from langchain_community.vectorstores import FAISS
                 
-                embeddings = HuggingFaceEmbeddings(
-                    model_name="sentence-transformers/all-MiniLM-L6-v2",
-                    model_kwargs={'device': 'cpu'}
-                )
+                embeddings = FastEmbedEmbeddings()
                 vectorstore = FAISS.load_local(vectorstore_path, embeddings, allow_dangerous_deserialization=True)
                 
                 # Cari 4 bagian dokumen yang paling mirip dengan pertanyaan
