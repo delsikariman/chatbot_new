@@ -1,0 +1,1754 @@
+
+ 
+ 
+mendukung pengembangan keilmuan dan praktik profesional di bidang 
+pendidikan vokasi 
+CPL 14 Menguasai teori, prinsip, dan metodologi pengembangan multimedia 
+untuk merancang, menghasilkan, dan mengevaluasi produk serta proyek 
+multimedia secara inovatif dan profesional dalam mendukung transformasi 
+pendidikan vokasi   
+Capaian Pembelajaran 
+Mata Kuliah (CPMK) 
+ 
+Capaian Pembelajaran Mata Kuliah (CPMK) 
+CPMK 1   Mampu  menganalisis konsep dasar, prinsip kerja, dan 
+perkembangan Artificial Intelligence serta implikasinya dalam pendidikan. 
+CPMK 2  Mampu mengevaluasi pemanfaatan Artificial Intelligence dalam 
+pembelajaran, asesmen, dan pengembangan kurikulum pendidikan vokasi. 
+CPMK 3  Mampu  merancang perangkat pembelajaran berbasis Artificial 
+Intelligence yang meliputi bahan ajar, media pembelajaran, dan strategi 
+pembelajaran inovatif. 
+CPMK 4  Mampu  mengembangkan dan mempresentasikan proposal 
+implementasi Artificial Intelligence dalam pembelajaran di pendidikan vokasi 
+secara sistematis dan bertanggung jawab. 
+Sub-Capaian Pembelajaran Mata Kuliah (Sub-CPMK) 
+Sub-CPMK 1  Mampu menganalisis konsep dasar dan perkembangan 
+Artificial Intelligence dalam pendidikan 
+Sub-CPMK 2 Mampu  menjelaskan prinsip kerja AI secara konseptual dan 
+keterbatasannya 
+Sub-CPMK 3  Mampu  mengevaluasi  penggunaan generative AI dalam 
+pembelajaran 
+Sub-CPMK 4  Mampu  mengidentifikasi  isu etika dan integritas akademik 
+dalam penggunaan AI 
+Sub-CPMK 5  Mampu  menganalisis  penerapan Artificial Intelligence in 
+Education (AIED) 
+Sub-CPMK 6  Mampu  menganalisis penggunaan AI dalam asesmen 
+pembelajaran 
+Sub-CPMK 7  Mampu  mengevaluasi integrasi AI dalam kurikulum pendidikan 
+vokasi 
+Sub-CPMK 8  Mampu  mengembangkan bahan ajar berbasis AI 
+Sub-CPMK 9  Mampu  mengkritisi kualitas output AI untuk pembelajaran 
+Sub-CPMK 10 Mampu  merancang pembelajaran berbasis proyek yang 
+memanfaatkan AI 
+Sub-CPMK 11  Mampu  mengintegrasikan AI dalam perencanaan 
+pembelajaran 
+Sub-CPMK 12  Mampu  mengimplementasikan AI untuk pembuatan media 
+pembelajaran 
+Sub-CPMK 13  Mampu  mengimplementasikan AI untuk asesmen dan analisis 
+hasil belajar    
+Sub-CPMK 14  Mampu  merancang proposal implementasi AI dalam 
+pendidikan vokasi 
+Sub-CPMK 15  Mampu  mempresentasikan dan merefleksikan implementasi 
+AI dalam pendidikan 
+Korelasi CPMK terhadap 
+Sub-CPMK 
+ 
+CPMK Sub-
+CPMK 
+CPL (%) 
+CPL 1 CPL 3 CPL 9 CPL 14 
+CPMK 1 Sub-
+CPMK 1 
+1 2 2  
+Sub-
+CPMK 2 
+1 2 2  
+Sub-
+CPMK 3 
+1 2 2  
+Sub-
+CPMK 4 
+1 4   
+ 
+ 
+Sub-
+CPMK 5 
+1 2 2  
+CPMK 2 Sub-
+CPMK 6 
+1 2 2  
+Sub-
+CPMK 7 
+1 3 3 3 
+Sub-
+CPMK 8 
+1 1 1 2 
+Sub-
+CPMK 9 
+1 4   
+CPMK 3 Sub-
+CPMK 10 
+1 1 1 2 
+Sub-
+CPMK 11 
+1 1 1 2 
+Sub-
+CPMK 12 
+1 3 3 3 
+Sub-
+CPMK 13 
+1 4 5  
+CPMK 4 Sub-
+CPMK 14 
+1 3 3 3 
+Sub-
+CPMK 15 
+1 9   
+  15 43 27 15 
+ 
+  
+Pustaka Utama: 
+Buku teks 
+1. Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern 
+Approach (4th ed.). Pearson Education. 
+http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.
+pdf 
+2. Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial Intelligence in 
+Education: Promises and Implications for Teaching and Learning. 
+Center for Curriculum Redesign. 
+https://discovery.ucl.ac.uk/id/eprint/10139722/ 
+3. Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). 
+Intelligence Unleashed: An Argument for AI in Education. Pearson 
+Education. 
+https://oro.open.ac.uk/50104/ 
+Pendukung: 
+4. OECD. (2021). Artificial Intelligence and the Future of Skills. OECD 
+Publishing. 
+https://www.oecd.org/content/dam/oecd/en/about/projects/edu/artifici
+al-intelligence-and-the-future-of-skills/artificial-intelligence-future-of-
+skills-brochure.pdf 
+5. UNESCO. (2023). Guidance for Generative AI in Education and 
+Research. UNESCO. 
+https://unesdoc.unesco.org/ark:/48223/pf0000386693 
+6. Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi RI. 
+(2024). Buku Panduan Penggunaan Generative Artificial Intelligence 
+pada Pembelajaran di Perguruan Tinggi. 
+https://lldikti3.kemdiktisaintek.go.id/wp-
+content/uploads/2024/11/Buku-Panduan-_-Penggunaan-Generative-
+AI-pada-Pembelajaran-di-Perguruan-Tinggi-cetak.pdf 
+ 
+ 
+Rencana Pembelajaran: 
+Minggu 
+Ke 
+Sub-CPMK Bahan 
+Kajian 
+Metode Pembelajaran, 
+Pengalaman Belajar 
+Estimasi 
+Waktu 
+(Menit) 
+Teknik, 
+Indikator 
+Penilaian 
+Bobot 
+(%) 
+1 Pengantar AI 
+dalam 
+Pendidikan 
+Peran AI 
+dalam 
+transformasi 
+pendidikan, AI 
+dalam 
+revolusi 
+industri 4.0 
+dan Society 
+5.0 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah 
+interaktif, 
+diskusi  
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah 
+interaktif, 
+diskusi  
+ 
+ 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+ - 
+2 Sub-CPMK 1   
+Mampu 
+menganalisis 
+konsep dasar 
+dan 
+perkembangan 
+Artificial 
+Intelligence 
+dalam 
+pendidikan 
+Definisi AI, 
+sejarah AI, 
+perkembanga
+n AI dalam 
+industri dan 
+pendidikan 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah 
+interaktif, 
+diskusi  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+mendiskusik
+an contoh 
+penggunaan 
+AI di bidang 
+pendidikan 
+atau industri 
+vokasi 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah 
+interaktif, 
+diskusi  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+mendiskusik
+an contoh 
+penggunaan 
+AI dalam 
+pendidikan 
+vokasi 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Refleksi 
+tertulis 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan  
+menganalisi
+s konsep 
+dasar dan 
+perkembang
+an Artificial 
+Intelligence 
+dalam 
+pendidikan  
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+5 
+3 Sub-CPMK 2 
+Mampu  
+menjelaskan 
+prinsip kerja AI 
+secara 
+konseptual dan 
+keterbatasannya 
+ 
+Data, model 
+AI, machine 
+learning, 
+keterbatasan 
+AI 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah dan 
+studi kasus  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menganalisi
+s cara AI 
+menghasilka
+n prediksi 
+atau output 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah dan 
+studi kasus  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menganalisis 
+cara AI 
+menghasilka
+n prediksi 
+atau output 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Tugas 
+individu 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+menjelaska
+n prinsip 
+kerja AI 
+secara 
+konseptual 
+dan 
+5 
+ 
+ 
+keterbatasa
+nnya  
+Disiplin, 
+Tanggung 
+Jawab 
+4 Sub-CPMK 3  
+Mampu  
+mengevaluasi  
+penggunaan 
+generative AI 
+dalam 
+pembelajaran 
+Generative AI, 
+chatbot 
+pendidikan, 
+manfaat dan 
+risiko 
+penggunaan 
+AI 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Demonstrasi 
+dan diskusi  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+membandin
+gkan hasil 
+generative 
+AI dengan 
+sumber 
+ilmiah 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Demonstrasi 
+dan diskusi  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+membandin
+gkan hasil 
+generative 
+AI dengan 
+sumber 
+ilmiah 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Tugas 
+analisis  
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan    
+mengevalu
+asi  
+penggunaa
+n 
+generative 
+AI dalam 
+pembelajar
+an 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+5 
+5 Sub-CPMK 4  
+Mampu  
+mengidentifikasi  
+isu etika dan 
+integritas 
+akademik dalam 
+penggunaan AI 
+Bias 
+algoritma, 
+privasi data, 
+plagiarisme, 
+etika AI 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Diskusi 
+kasus  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menganalisis 
+kasus 
+penyalahgun
+aan AI dalam 
+pendidikan 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Diskusi 
+kasus  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menganalisi
+s kasus 
+penyalahgun
+aan AI 
+dalam 
+pendidikan 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Esai singkat 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan    
+mengidenti
+fikasi  isu 
+etika dan 
+integritas 
+akademik 
+dalam 
+penggunaa
+n AI 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+5 
+6 Sub-CPMK 5  
+Mampu  
+menganalisis  
+penerapan 
+Artificial 
+Intelligence in 
+Education (AIED) 
+Konsep AIED, 
+Intelligent 
+Tutoring 
+System, 
+adaptive 
+learning 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah, 
+studi literatur 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+5 
+ 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah, 
+studi literatur 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+mengkaji 
+contoh 
+sistem AI 
+dalam 
+pendidikan 
+ 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+mengkaji 
+contoh 
+sistem AI 
+dalam 
+pendidikan 
+ 
+Ringkasan 
+artikel ilmiah 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+menganalis
+is  
+penerapan 
+AIED 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+7 Sub-CPMK 6  
+Mampu  
+menganalisis 
+penggunaan AI 
+dalam asesmen 
+pembelajaran 
+AI 
+assessment, 
+automatic 
+grading, 
+learning 
+analytics 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah, 
+studi kasus 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+merancang 
+contoh 
+asesmen 
+berbasis AI 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Ceramah, 
+studi kasus 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+merancang 
+contoh 
+asesmen 
+berbasis AI 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Tugas 
+desain 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+menganalisi
+s 
+penggunaan 
+AI dalam 
+asesmen 
+pembelajara
+n 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+5 
+8 Sub-CPMK 7  
+Mampu  
+mengevaluasi 
+integrasi AI 
+dalam kurikulum 
+pendidikan 
+vokasi 
+Kurikulum 
+abad 21, 
+kompetensi 
+digital guru 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an 
+Diskusi 
+kelompok 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menganalisi
+s integrasi 
+AI dalam 
+kurikulum 
+bidang 
+keahlian  
+Luring 
+ 
+Metode 
+Pembelajar-
+an 
+Diskusi 
+kelompok 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menganalisi
+s integrasi 
+AI dalam 
+kurikulum 
+bidang 
+keahlian 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Presentasi 
+kelompok 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan  
+mengevalua
+si integrasi 
+AI dalam 
+kurikulum 
+pendidikan 
+vokasi 
+ 
+10 
+ 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+UJIAN TENGAH SEMESTER (UTS) 
+10 Sub-CPMK 8  
+Mampu  
+mengembangkan 
+bahan ajar 
+berbasis AI 
+AI untuk 
+pembuatan 
+modul dan 
+materi 
+pembelajaran 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Workshop  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+membuat 
+bahan ajar 
+dengan 
+bantuan AI 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Workshop  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+membuat 
+bahan ajar 
+dengan 
+bantuan AI 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Produk 
+bahan ajar 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+mengemba
+ngkan 
+bahan ajar 
+berbasis AI 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+5 
+11 Sub-CPMK 9  
+Mampu  
+mengkritisi 
+kualitas output AI 
+untuk 
+pembelajaran 
+Validitas 
+informasi, 
+verifikasi 
+konten AI 
+Daring: 
+ 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Diskusi kritis  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+mengevalua
+si akurasi 
+hasil AI  
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Diskusi kritis  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+mengevalua
+si akurasi 
+hasil AI 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Laporan 
+analisis 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+mengkritisi 
+kualitas 
+output AI 
+untuk 
+pembelajara
+n 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+5 
+12 Sub-CPMK 10 
+Mampu  
+merancang 
+pembelajaran 
+berbasis proyek 
+yang 
+memanfaatkan 
+AI 
+Project 
+Based 
+Learning 
+dengan AI 
+Daring: 
+ 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Workshop  
+ 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Workshop  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+merancang 
+proyek 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Draf proyek 
+ 
+Observasi 
+ 
+Indikator: 
+5 
+ 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+merancang 
+proyek 
+pembelajara
+n berbasis 
+AI  
+pembelajara
+n berbasis AI 
+Ketepatan   
+merancang 
+pembelajara
+n berbasis 
+proyek yang 
+memanfaatk
+an AI 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+13 Sub-CPMK 11  
+Mampu  
+mengintegrasika
+n AI dalam 
+perencanaan 
+pembelajaran 
+AI untuk RPP 
+/ modul ajar 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Praktik  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menyusun 
+rencana 
+pembelajara
+n berbasis 
+AI 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Praktik  
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menyusun 
+rencana 
+pembelajara
+n berbasis AI 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Produk RPP 
+  
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+mengintegra
+sikan AI 
+dalam 
+perencanaa
+n 
+pembelajara
+n 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+5 
+14 Sub-CPMK 12   
+Mampu   
+mengimplementa
+sikan AI untuk 
+pembuatan 
+media 
+pembelajaran 
+AI untuk 
+presentasi, 
+gambar, video 
+edukasi 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Praktik 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+membuat 
+media 
+pembelajara
+n berbasis 
+AI 
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Praktik 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+membuat 
+media 
+pembelajara
+n berbasis AI 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Laporan 
+praktik 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+mengimple
+mentasikan 
+AI untuk 
+pembuatan 
+media 
+pembelajara
+n 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+10 
+15 Sub-CPMK 13  
+Mampu  
+mengimplementa
+AI untuk 
+analisis nilai 
+Daring: 
+ 
+Luring 
+ 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+Kriteria: 
+Sesuai 
+10 
+ 
+ 
+sikan AI untuk 
+asesmen dan 
+analisis hasil 
+belajar    
+dan umpan 
+balik siswa 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Praktik 
+ 
+Pengalam-
+an Belajar: 
+Simulasi 
+analisis hasil 
+belajar 
+menggunak
+an AI 
+Metode 
+Pembelajar-
+an: 
+Praktik 
+ 
+Pengalam-
+an Belajar: 
+Simulasi 
+analisis hasil 
+belajar 
+menggunaka
+n AI 
+ rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Laporan 
+praktik 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+mengimple
+mentasikan 
+AI untuk 
+asesmen 
+dan analisis 
+hasil belajar    
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+16 Sub-CPMK 14  
+Mampu  
+merancang 
+proposal 
+implementasi AI 
+dalam 
+pendidikan 
+vokasi 
+ 
+Sub-CPMK 15  
+Mampu  
+mempresentasik
+an dan 
+merefleksikan 
+implementasi AI 
+dalam 
+pendidikan 
+Proposal 
+implementasi 
+AI dan 
+presentasi 
+proyek 
+Daring: 
+ 
+https://upgris
+ba.siakadclo
+ud.com 
+ 
+Metode 
+Pembelajar-
+an: 
+Project 
+Based 
+Learning,  
+Presentasi, 
+diskusi 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menyusun 
+proposal  
+dan 
+mempresent
+asikan 
+implementas
+i AI  
+Luring 
+ 
+Metode 
+Pembelajar-
+an: 
+Project 
+Based 
+Learning,  
+Presentasi, 
+diskusi 
+ 
+ 
+Pengalam-
+an Belajar: 
+Mahasiswa 
+menyusun 
+proposal dan 
+mempresent
+asikan 
+implementas
+i AI 
+TM 3 × 50’ 
+TT 3 × 60’ 
+BM 3 × 60’ 
+ 
+Kriteria: 
+Sesuai 
+rubrik 
+penskoran 
+ 
+Teknik Tes 
+& Non tes: 
+Proposal 
+proyek 
+ 
+Presentasi 
+proyek 
+ 
+ 
+Observasi 
+ 
+Indikator: 
+Ketepatan   
+merancang 
+proposal 
+dan 
+mempresent
+asikan 
+implementa
+si AI dalam 
+pendidikan 
+vokasi 
+ 
+Disiplin, 
+Tanggung 
+Jawab 
+20 
+UJIAN AKHIR SEMESTER (UAS) 
+Penilaian 
+ 
+ 
+Komponen Bobot 
+Sikap (S)  20 % 
+Keterampilan Umum 
+(KU) 
+25 % 
+Keterampilan Khusus 
+(KK) 
+25 % 
+Pengetahuan (P)  
+ 
+ 
+1. Kuis 5 % 
+2. UTS 10 % 
+3. UAS 15 % 
+Norma Akademik 1. Mahasiswa yang terlambat lebih dari 15 menit tidak diperbolehkan masuk. 
+2. Mahasiswa yang minta izin selama proses pembelajaran dan tidak 
+kembali dianggap absen. 
+3. Mahasiswa hanya diperbolehkan absen sebanyak 3 kali (minimal 
+kehadiran 80%). 
+4. Mahasiswa menyerahkan tugas sesuai dengan waktu yang sudah 
+ditetapkan. 
+Rancangan Tugas dan Latihan 
+Minggu 
+ke- dan 
+Topik Nama Tugas Sub-CPMK Penugas-
+an 
+Ruang 
+lingkup 
+Cara 
+Mengerja
+-kan 
+Batas Waktu 
+dan Luaran 
+Tugas yang 
+Dihasilkan 
+2 
+ 
+ 
+ 
+Refleksi 
+Perkembangan 
+AI 
+Sub-CPMK 1   
+Mampu 
+menganalisis 
+konsep dasar 
+dan 
+perkembanga
+n Artificial 
+Intelligence 
+dalam 
+pendidikan 
+Menulis 
+refleksi 
+tentang 
+perkembang
+an AI dan 
+dampaknya 
+terhadap 
+pendidikan 
+vokasi 
+Konsep AI, 
+sejarah AI, 
+penerapan 
+AI di 
+pendidikan 
+Individu Minggu ke-2 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Esai refleksi 
+3 
+ 
+ 
+Analisis Cara 
+Kerja AI 
+Sub-CPMK 2 
+Mampu  
+menjelaskan 
+prinsip kerja 
+AI secara 
+konseptual 
+dan 
+keterbatasann
+ya 
+ 
+Menganalisis 
+bagaimana 
+AI 
+menghasilka
+n prediksi 
+atau 
+keputusan 
+berdasarkan 
+data 
+Konsep 
+data, model 
+AI, machine 
+learning 
+Individu Minggu ke-3 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Laporan analisis 
+4 
+ 
+ 
+Evaluasi 
+Generative AI 
+Sub-CPMK 3  
+Mampu  
+mengevaluasi  
+penggunaan 
+generative AI 
+dalam 
+pembelajaran 
+Membanding
+kan hasil 
+generative AI 
+dengan 
+sumber 
+ilmiah 
+Chatbot AI, 
+generative 
+AI, validitas 
+informasi 
+Individu Minggu ke-4 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Laporan evaluasi 
+5 
+ 
+ 
+Studi Kasus 
+Etika AI 
+Sub-CPMK 4  
+Mampu  
+mengidentifik
+asi  isu etika 
+dan integritas 
+akademik 
+dalam 
+penggunaan 
+AI 
+Menganalisis 
+kasus 
+penyalahgun
+aan AI dalam 
+pendidikan 
+Bias 
+algoritma, 
+privasi data, 
+plagiarisme 
+Kelompok Minggu ke-5 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Laporan studi kasus 
+6 
+ 
+ 
+Kajian Artificial 
+Intelligence in 
+Education 
+Sub-CPMK 5  
+Mampu  
+menganalisis  
+penerapan 
+Artificial 
+Intelligence in 
+Education 
+(AIED) 
+Mengkaji 
+artikel ilmiah 
+tentang AI 
+dalam 
+pendidikan 
+Intelligent 
+tutoring 
+system, 
+adaptive 
+learning 
+Individu Minggu ke-6 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Ringkasan artikel 
+ilmiah 
+7 
+ 
+Desain Asesmen 
+Berbasis AI 
+Sub-CPMK 6  
+Mampu  
+Merancang 
+contoh 
+AI 
+assessment, 
+Individu Minggu ke-7 
+dikumpulkan melalui  
+ 
+ 
+ menganalisis 
+penggunaan 
+AI dalam 
+asesmen 
+pembelajaran 
+sistem 
+asesmen 
+menggunaka
+n AI 
+learning 
+analytics 
+https://edlink.id/panel  
+yang dikumpulkan   
+Desain asesmen 
+9 
+ 
+ 
+Analisis 
+Kurikulum 
+Berbasis AI 
+Sub-CPMK 7  
+Mampu  
+mengevaluasi 
+integrasi AI 
+dalam 
+kurikulum 
+pendidikan 
+vokasi 
+Menganalisis 
+peluang 
+integrasi AI 
+dalam 
+kurikulum 
+bidang 
+keahlian 
+Kurikulum 
+abad 21, 
+kompetensi 
+digital 
+Individu Minggu ke-9 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Presentasi analisis 
+10 
+ 
+ 
+Pengembangan 
+Bahan Ajar AI 
+Sub-CPMK 8  
+Mampu  
+mengembang
+kan bahan 
+ajar berbasis 
+AI 
+Membuat 
+modul atau 
+materi 
+pembelajara
+n 
+menggunaka
+n AI 
+AI untuk 
+bahan ajar, 
+modul 
+pembelajara
+n 
+Individu Minggu ke-10 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Modul / bahan ajar 
+11 
+ 
+ 
+Kritik Output AI Sub-CPMK 9  
+Mampu  
+mengkritisi 
+kualitas 
+output AI 
+untuk 
+pembelajaran 
+Mengevaluas
+i akurasi 
+informasi 
+yang 
+dihasilkan AI 
+Validitas 
+informasi, 
+verifikasi 
+konten 
+Individu Minggu ke-11 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Laporan kritik 
+12 
+ 
+ 
+Desain Project 
+Based Learning 
+AI 
+Sub-CPMK 
+10 Mampu  
+merancang 
+pembelajaran 
+berbasis 
+proyek yang 
+memanfaatka
+n AI 
+Menyusun 
+rancangan 
+proyek 
+pembelajara
+n berbasis AI 
+Project-
+based 
+learning, AI 
+tools 
+Kelompok Minggu ke-12 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Draft proyek 
+pembelajaran 
+13 
+ 
+ 
+Perencanaan 
+Pembelajaran 
+Berbasis AI 
+Sub-CPMK 
+11  Mampu  
+mengintegrasi
+kan AI dalam 
+perencanaan 
+pembelajaran 
+Menyusun 
+RPP atau 
+modul ajar 
+berbasis AI 
+Perencanaa
+n 
+pembelajara
+n, AI tools 
+Individu Minggu ke-13 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+RPP berbasis AI 
+14 
+ 
+ 
+Pengembangan 
+Media 
+Pembelajaran AI 
+Sub-CPMK 
+12  Mampu  
+mengimpleme
+ntasikan AI 
+untuk 
+pembuatan 
+media 
+pembelajaran 
+Membuat 
+media 
+pembelajara
+n 
+menggunaka
+n AI 
+AI untuk 
+presentasi, 
+gambar, 
+video 
+Individu Minggu ke-14 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Media pembelajaran 
+15 
+ 
+ 
+ 
+Analisis Hasil 
+Belajar dengan 
+AI 
+Sub-CPMK 
+13  Mampu  
+mengimpleme
+ntasikan AI 
+untuk 
+asesmen dan 
+analisis hasil 
+belajar    
+Simulasi 
+analisis nilai 
+siswa 
+menggunaka
+n AI 
+Learning 
+analytics 
+Individu Minggu ke-15 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Laporan praktik 
+16 Proposal &  
+Presentasi 
+Proyek 
+Implementasi AI 
+Sub-CPMK 
+14  Mampu  
+merancang 
+proposal 
+implementasi 
+AI dalam 
+Menyusun 
+dan  
+Presentasi 
+proposal 
+proposal 
+Implementas
+i AI di 
+pendidikan 
+Kelompok Minggu ke-16 
+dikumpulkan melalui  
+https://edlink.id/panel  
+yang dikumpulkan   
+Proposal proyek 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pendidikan 
+vokasi 
+ 
+Sub-CPMK 
+15  Mampu  
+mempresenta
+sikan dan 
+merefleksikan 
+implementasi 
+AI dalam 
+pendidikan 
+penerapan AI 
+di sekolah 
