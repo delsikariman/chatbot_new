@@ -3,6 +3,7 @@ import os
 import sys
 import logging
 import config
+from responses import respon_ai
 
 # Suppress langchain warnings
 logging.getLogger("langchain").setLevel(logging.ERROR)
@@ -14,14 +15,6 @@ st.set_page_config(
     layout=config.STREAMLIT_LAYOUT,
     initial_sidebar_state="collapsed"
 )
-
-# Lazy import responses (avoid loading heavy dependencies at startup)
-@st.cache_resource
-def get_response_functions():
-    from responses import respon_ai
-    return respon_ai
-
-respon_ai = get_response_functions()
 
 st.title(config.STREAMLIT_PAGE_TITLE)
 st.caption("Chatbot dengan AI berbasis Groq")
