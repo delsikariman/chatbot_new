@@ -74,6 +74,9 @@ def load_data() -> dict:
 
 
 def load_vectorstore():
+    """
+    Load FAISS vectorstore dengan caching untuk performance.
+    Vectorstore hanya di-load sekali dan di-cache di memory.
     OPTIMIZED: Menggunakan sentence-transformers (lebih ringan dari fastembed)
     
     Returns:
@@ -121,10 +124,7 @@ def load_vectorstore():
         
     except ImportError as e:
         logger.warning(f"Embedding library tidak tersedia: {e}. Lanjut tanpa RAG.")
-        return None)
-        logger.info("✅ Vectorstore loaded successfully (cached)")
-        return _vectorstore_cache
-        
+        return None
     except Exception as e:
         logger.error(f"Gagal memuat vectorstore: {e}")
         return None
