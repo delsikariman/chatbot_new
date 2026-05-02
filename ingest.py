@@ -10,10 +10,11 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from langchain_community.vectorstores import FAISS
+import config
 
 def main():
-    pdf_folder = "Referensi"
-    vectorstore_path = "vectorstore"
+    pdf_folder = config.PDF_FOLDER_PATH
+    vectorstore_path = config.VECTORSTORE_PATH
 
     if not os.path.exists(pdf_folder):
         print(f"❌ Folder '{pdf_folder}' tidak ditemukan.")
@@ -46,8 +47,8 @@ def main():
 
     # 3. Memecah dokumen menjadi potongan kecil (chunking)
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=200,
+        chunk_size=config.CHUNK_SIZE,
+        chunk_overlap=config.CHUNK_OVERLAP,
         separators=["\n\n", "\n", ".", " ", ""]
     )
     chunks = text_splitter.split_documents(documents)

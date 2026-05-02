@@ -1,0 +1,17 @@
+# Optimized requirements untuk Streamlit Cloud (memory-optimized)
+streamlit>=1.28.0
+groq>=0.4.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+python-dotenv>=1.0.0
+toml>=0.10.2
+
+# Lightweight embeddings untuk cloud
+# HuggingFaceEmbeddings dengan all-MiniLM-L6-v2 (33MB, sangat ringan)
+sentence-transformers>=2.2.0
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Optional: fastembed fallback (uncomment jika diperlukan, tapi lebih berat)
+# fastembed>=0.1.0

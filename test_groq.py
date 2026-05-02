@@ -3,6 +3,12 @@ import os
 import sys
 from groq import Groq
 
+def mask_key(key: str, show_chars: int = 8) -> str:
+    """Mask API key untuk security"""
+    if not key or len(key) < show_chars * 2:
+        return "***MASKED***"
+    return f"{key[:show_chars]}...{key[-show_chars:]}"
+
 # Load API key dari environment variable atau secrets.toml
 api_key = os.getenv("GROQ_API_KEY")
 if not api_key:
@@ -21,7 +27,7 @@ if not api_key:
     print("❌ API Key tidak ditemukan!")
     sys.exit(1)
 
-print(f"✅ API Key ditemukan (length: {len(api_key)})")
+print(f"✅ API Key ditemukan: {mask_key(api_key)}")
 
 try:
     print("\n🔄 Membuat koneksi ke Groq...")

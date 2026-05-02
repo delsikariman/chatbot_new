@@ -7,6 +7,7 @@ import os
 from responses import respon_ai, get_response_from_groq
 from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from langchain_community.vectorstores import FAISS
+import config
 
 print("=" * 60)
 print("VERIFIKASI SISTEM RAG (Referensi dalam Jawaban)")
@@ -15,7 +16,7 @@ print("=" * 60)
 # 1. Cek vectorstore
 print("\n1️⃣ CEK VECTORSTORE")
 print("-" * 60)
-vectorstore_path = "vectorstore"
+vectorstore_path = config.VECTORSTORE_PATH
 if os.path.exists(vectorstore_path):
     try:
         embeddings = FastEmbedEmbeddings()
@@ -32,7 +33,7 @@ else:
 print("\n2️⃣ CEK KNOWLEDGE BASE (data.json)")
 print("-" * 60)
 try:
-    with open("data.json", "r", encoding="utf-8") as f:
+    with open(config.DATA_JSON_PATH, "r", encoding="utf-8") as f:
         data = json.load(f)
     print(f"✅ data.json ditemukan")
     print(f"   Total entries: {len(data)} pertanyaan")
@@ -57,7 +58,7 @@ for q in test_questions:
     try:
         embeddings = FastEmbedEmbeddings()
         vectorstore = FAISS.load_local(vectorstore_path, embeddings, allow_dangerous_deserialization=True)
-        docs = vectorstore.similarity_search(q, k=2)
+        docs = vectorstore.similarity_search(q, k=config.K_SEARCH)
         
         if docs:
             print("✅ Referensi ditemukan di vectorstore:")

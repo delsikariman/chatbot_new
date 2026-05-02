@@ -1,9 +1,23 @@
 #!/usr/bin/env python3
 """
-Script untuk verifikasi setup Groq API
+Script untuk verifikasi setup Groq API dengan better error handling
 """
 import os
 import sys
+import logging
+
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(levelname)s: %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+def mask_key(key: str, show_chars: int = 8) -> str:
+    """Mask API key untuk security"""
+    if not key or len(key) < show_chars * 2:
+        return "***MASKED***"
+    return f"{key[:show_chars]}...{key[-show_chars:]}"
 
 def check_groq_setup():
     print("=" * 50)
@@ -25,8 +39,7 @@ def check_groq_setup():
     api_key = os.getenv("GROQ_API_KEY")
     
     if api_key:
-        print(f"   ✅ GROQ_API_KEY ditemukan")
-        print(f"   Preview: {api_key[:15]}...")
+        print(f"   ✅ GROQ_API_KEY ditemukan: {mask_key(api_key)}")
     else:
         # Cek di Streamlit secrets
         try:
@@ -76,11 +89,18 @@ def check_groq_setup():
             with open("data.json", "r", encoding="utf-8") as f:
                 data = json.load(f)
             print(f"   ✅ data.json ditemukan ({len(data)} entries)")
-        except:
-            print("   ❌ data.json tidak valid")
+        except Exception as e:
+            print(f"   ❌ data.json error: {e}")
             return False
     else:
-        print("   ⚠️  data.json tidak ditemukan")
+        print("   ⚠️  data.json tidak ditemukan (tidak kritis)")
+    
+    # Check 5: Vectorstore tersedia?
+    print("\n5. Checking vectorstore...")
+    if os.path.exists("vectorstore"):
+        print("   ✅ vectorstore folder ditemukan (RAG siap)")
+    else:
+        print("   ⚠️  vectorstore tidak ditemukan (jalankan ingest.py untuk setup)")
     
     print("\n" + "=" * 50)
     print("✅ Setup berhasil! Siap digunakan.")
